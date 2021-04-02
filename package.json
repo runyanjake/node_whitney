@@ -1,0 +1,12 @@
+{
+  "name": "node_whitney",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node instance for Whitney",
+  "author": {
+    "name": "whitney"
+  },
+  "dependencies": {
+    "http": "*"
+  }
+}
